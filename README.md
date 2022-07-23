@@ -12,5 +12,5 @@
 
 This is made as an assignment while learning Javascript
 
-Demo: https://github.com/Neeraj-Shilwant/Depression-Detection-Test
+Demo: https://neeraj-shilwant.github.io/Depression-Detection-Test.github.io/
 
